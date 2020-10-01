@@ -16,4 +16,5 @@ Example Usage:
 ==============
 
     ./profiler.py -u http://www.stackoverflow.com
-
+    
+THANKS FOR VISITING MY WEBSITE
